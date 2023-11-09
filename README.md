@@ -2,6 +2,8 @@
 The MATLAB code used in our article **A Vanka-type multigrid solver for complex-shifted Laplacian systems from diagonalization-based parallel-in-time algorithms
 Applied Mathematics Letters** by Yunhui He and Jun Liu.
 
+Please adjust Lines 15-25 in the following code to select different examples:
+- ShiftedLaplacian_Vanka.m 
 
 Licence Information:
 
